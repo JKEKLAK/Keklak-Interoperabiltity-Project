@@ -1,0 +1,21 @@
+API Specification Document
+
+The three public APIs being used in this project for what purpose:
+1. Cat Breed Classifier API - Will ID the breed of cat from a user input image
+2. CATAAS (Cat as a Service) - Will provide facts about a particular cat breed
+3. Youtube API - will provide videos on youtube about a particula cat breed to watch
+
+4. Custom API (KEKCAT (keklak + cat)) - will take user information input into the GUI and package it as an object, it will contain a cat image or cat breed name and send those bits to the 3 public APIs above
+	- It will return an object with the results from the 3 api's above and store them into a database (csv)
+
+
+Extremely Non-Technical Diagram of Project Structure:
+
+user >> GUI --> KEKCAT API  ------> Youtube API (Get Youtube Videos)
+	  (Cat Image)      -------> Cat Breed Classifier (Will ID and classify image of cat)    ---> Will store result in Database
+ 			   -------> CATAAS (Will provide facts about the cat breed)
+
+
+Youtube API:https://developers.google.com/youtube/v3
+Cat Classifier: https://zylalabs.com/api-marketplace/machine+learning/cat+breed+classification+api/499
+CATAAS: https://cataas.com/
