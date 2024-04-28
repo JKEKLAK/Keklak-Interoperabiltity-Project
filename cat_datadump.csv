@@ -1,0 +1,22 @@
+id,name,image_url,youtube,facts
+0,Abyssinian,https://api-ninjas.com/images/cats/abyssinian.jpg,https://www.youtube.com/watch?v=lUvZ7Y_wePM,"Name: Abyssinian
+Origin: Southeast Asia
+Length: 12 to 16 inches
+Weight Range (lbs): 6.0 - 10.0
+Max life expectancy (years): 15.0
+Image URL: https://api-ninjas.com/images/cats/abyssinian.jpg"
+1,,https://cdn2.thecatapi.com/images/MTgzMDYxNw.jpg,youtube video,facts
+2,,https://cdn2.thecatapi.com/images/L-aDi29wP.jpg,youtube video,updated fact
+3,Persian,https://cdn2.thecatapi.com/images/4G_bcp35K.jpg,https://www.youtube.com/watch?v=nKi_01sGuR8,"Name: Persian
+Origin: Persia (known as Iran today)
+Length: 14 to 18 inches, not including tail
+Weight Range (lbs): 7.0 - 12.0
+Max life expectancy (years): 15.0
+Image URL: https://api-ninjas.com/images/cats/persian.jpg"
+4,,https://i.guim.co.uk/img/media/c9b0aad22638133aa06cd68347bed2390b555e63/0_477_2945_1767/master/2945.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=97bf92d90f51da7067d00f8156512925,,
+5,Egyptian,https://cdn2.thecatapi.com/images/2N4PhyqTG.jpg,https://www.youtube.com/watch?v=Xv-_c3WtY8M,"Name: Egyptian Mau
+Origin: Egypt
+Length: Medium
+Weight Range (lbs): 6.0 - 14.0
+Max life expectancy (years): 15.0
+Image URL: https://api-ninjas.com/images/cats/egyptian_mau.jpg"
